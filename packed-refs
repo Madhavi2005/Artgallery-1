@@ -1,0 +1,12 @@
+# pack-refs with: peeled
+7b8494f9afb92c505d9dc173eb1bf6d22ccb5c44 refs/remotes/origin/J2EE
+4a6c7b8835a1cc84d96676628d716c0975bde7c4 refs/remotes/origin/dependabot/maven/org.postgresql-postgresql-42.7.2
+575c7fa688b3c82ea1b933f3a7ca29cce61f0f91 refs/remotes/origin/dev
+77974459950cc6f683e6b376e2076a6c7cc8d44a refs/remotes/origin/feature/cart
+ad25ce47625d51792956771e10e67fc01586c419 refs/remotes/origin/gh-pages
+58c7929bff69672bb1c4f24abc53b887dbc91ec1 refs/remotes/origin/master
+408ef28e190e86375d96bae5277a5fb04b7522bf refs/remotes/origin/master_generic_servlet
+d0b4df82f0f6080d2000a2d55138395ff57caac0 refs/remotes/origin/shashirajraja-patch-1
+b75ac6e457bed5a10bb7bc00d3eedab052464d86 refs/remotes/origin/shashirajraja-patch-2
+6933ee487dbefaef208ef659bdbb2c700d1653b9 refs/remotes/origin/shashirajraja-patch-3
+17090458ad86d5351681ceee8ef27e4d4835ed1b refs/remotes/origin/shashirajraja-patch-4
